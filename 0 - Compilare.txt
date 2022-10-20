@@ -3,6 +3,3 @@ Versione :
 ruby -v
 
 in terminale : ruby nome_file.rb
-
-
-
